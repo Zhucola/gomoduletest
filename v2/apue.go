@@ -1,4 +1,4 @@
-package apuev2
+package apue
 
 import "fmt"
 
