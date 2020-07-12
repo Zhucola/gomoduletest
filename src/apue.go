@@ -2,8 +2,8 @@ package apue
 
 import "fmt"
 
-const VERSION = 2.0
+const VERSION = 3.0
 func Test(){
 	fmt.Println(VERSION)
-	fmt.Println("2.0")
+	fmt.Println("3.0")
 }
