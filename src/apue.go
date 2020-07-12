@@ -7,5 +7,5 @@ func Test(){
 	fmt.Println(VERSION)
 	fmt.Println("3.0.0")
 	fmt.Println("master")
-	fmt.Println("caonima")
+	fmt.Println("xxxx")
 }
